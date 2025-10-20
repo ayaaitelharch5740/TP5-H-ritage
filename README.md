@@ -5,6 +5,8 @@ Ce projet contient les exercices du TP5 en JAVA.
 ## 📸 Captures d’écran
 
 Voici les résultats d’exécution :
+
+
  Compte-Bancaire : 
 
 ![Exécution 1](images/Compte-bancaire.JPG)
@@ -15,7 +17,7 @@ Vehicules :
 
 ZOO :
 
-![Exécution 3](imagess/ZOO.JPG)
+![Exécution 3](images/ZOO.JPG)
 
 Bibliotheque :
 
